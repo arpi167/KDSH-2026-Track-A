@@ -1,0 +1,15 @@
+# Core framework
+pathway==0.28.0
+
+# Embeddings / NLP
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.24.0
+
+# Data handling
+pandas>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0

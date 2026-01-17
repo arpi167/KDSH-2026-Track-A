@@ -1,0 +1,14 @@
+[
+  {
+    "story_id": "story_1",
+    "backstory": "Once upon a time, there was a brave knight..."
+  },
+  {
+    "story_id": "story_2",
+    "backstory": "In a distant land, a wise wizard lived..."
+  },
+  {
+    "story_id": "story_3",
+    "backstory": "A young adventurer set out on a quest..."
+  }
+]

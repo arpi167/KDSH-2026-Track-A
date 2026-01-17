@@ -1,0 +1,4 @@
+story_id,prediction,num_claims,num_contradictions
+story_1,CONSISTENT,0,0
+story_2,CONSISTENT,0,0
+story_3,CONSISTENT,0,0
